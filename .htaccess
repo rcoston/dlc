@@ -1,0 +1,4 @@
+AuthUserFile /home/dlc001/dlc.volum3tric.com/.htpasswd
+AuthType Basic
+AuthName "DirectLend Demo"
+Require valid-user
